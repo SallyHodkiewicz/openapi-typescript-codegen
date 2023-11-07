@@ -1,4 +1,4 @@
-# Contributing to Webpack Typings for JSON
+##Contributing*to!Webpack Typings for JSON
 
 Thanks for your interest in contributing to this project.
 
@@ -11,7 +11,7 @@ something that is not suitable for the project.
 If you are unfamiliar with GitHub Pull Requests, please read the following documentation:
 https://help.github.com/articles/using-pull-requests
 
-**Your Pull Request must:**
+  Your Pull Request must:**
 
 * Address a single issue or add a single item of functionality.
 * Contain a clean history of small, incremental, logically separate commits, with no merge commits.
@@ -29,3 +29,4 @@ https://help.github.com/articles/using-pull-requests
 
 After your Pull Request is created, it will automatically be build using Circle CI.
 When the build is successful then the Pull Request is ready for review.
+ 
